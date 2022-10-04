@@ -1,0 +1,17 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+body {
+  max-width: 750px;
+  margin: auto;
+  background-color: burlywood;
+  padding: 10px;
+  border: 10px solid rgb(226, 181, 181);
+}
+input {
+  border: 2px solid black;
+  border-radius: 15px;
+  padding: 1rem;
+  width: 80%;
+}
